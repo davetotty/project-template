@@ -1,6 +1,6 @@
-# My Awesome Project
+# Thesishare Project
 
-This is the catchphrase: what does this project do and how is it unique?
+Online thesis and dissertation repository
 
 [![Build Status](https://img.shields.io/travis/PHP-DI/PHP-DI/master.svg?style=flat-square)](https://travis-ci.org/PHP-DI/PHP-DI)
 [![Coverage Status](https://img.shields.io/coveralls/PHP-DI/PHP-DI/master.svg?style=flat-square)](https://coveralls.io/r/PHP-DI/PHP-DI?branch=master)
@@ -8,7 +8,7 @@ This is the catchphrase: what does this project do and how is it unique?
 [![Latest Version](https://img.shields.io/github/release/PHP-DI/PHP-DI.svg?style=flat-square)](https://packagist.org/packages/PHP-DI/php-di)
 [![Total Downloads](https://img.shields.io/packagist/dt/PHP-DI/PHP-DI.svg?style=flat-square)](https://packagist.org/packages/PHP-DI/php-di)
 
-Here is an additional quick introduction, if necessary.
+The project aims for development of an online thesis and dissertation repository to provide an online facility that stores and provides a simple and efficient way to access and retrieve thesis and dissertation reports together with their models and data.
 
 ## Why?
 
